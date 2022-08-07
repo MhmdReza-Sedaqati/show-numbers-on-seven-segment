@@ -1,0 +1,1 @@
+We want to give a binary number to the ATMEGA-16 through the logicstates and see its decimal equivalent on the screen as soon as the push button is pressed.
